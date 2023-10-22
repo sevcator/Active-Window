@@ -1,7 +1,7 @@
 # Active-Window
 A Discord RPC to show active window activity for your friends in Discord.
 
-![Screenshot](../Discord_DdggFqxiQ6.png)
+![Screenshot](https://github.com/sevcator/Active-Window/blob/main/Discord_DdggFqxiQ6.png?raw=true)
 
 Installation:
 1. Click Code -> Download ZIP and unpack archive
