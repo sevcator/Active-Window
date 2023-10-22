@@ -16,7 +16,11 @@ node index.js
 ```
 
 Scripts:
+
 index.js - default version (title name and app name)
+
 index-launchtime.js - default version (title name and app name) but elapsed time using of start script
+
 mini.js - shows only app name
+
 mini-launchtime.js - shows only app name but elapsed time using of start script
